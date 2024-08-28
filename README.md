@@ -42,22 +42,22 @@ Aggregating data by FSA using Geocod.io API.
 ### Exploratory Data Analysis:
 
 Visualizing the geographical distribution of rental prices and crime rates.
-Identifying patterns and outliers within the datasets.
+Identifying patterns and outliers within the datasets - for instance, it is evident that Breaking and Entering as well as Robbery was highest on Fridays.
+
 
 ### Correlation Analysis:
 
 Analyzing the relationship between rental prices and crime rates.
 Evaluating the strength and direction of the correlation.
+One of the insights that could be drawn was that even though rent prices in Old Toronto was high, so was the crime rate - making it not the best area to live in.
+It was evident that East York rent prices were almost as high as Old Toronto but the crime was significantly lower, infact, lowest in the 6 Boroughs.
 
 ### Visualization and Reporting:
 
 Creating interactive maps to display crime rates and rental prices by FSA on Tableau.
-Developing dashboards to allow users to explore data by various filters (e.g., crime type, rental price range).
+Developing dashboards to allow users to explore data by various filters (e.g., crime type, rental price range) - which is available on my Tableau Public account!! 
 
 ## Conclusion and Recommendations:
 
-Summarizing key findings and insights.
-Providing recommendations for prospective renters based on the analysis.
-Conclusion
 This project aims to provide valuable insights into the Toronto rental market by examining the interplay between rental prices and crime rates. By mapping these variables geographically, the project offers a visual and data-driven guide to help renters find neighborhoods that balance safety and affordability.
 
